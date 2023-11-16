@@ -4,7 +4,7 @@ const {} = require("../src/exerciciosMarcelo");
 describe('Testando as função matematicas', () => {
 
     it('Primeiro Exercicio Marcelo', () => {
-        
+        let
     })
 
 });
